@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Andrew Auxier and I like to explore new technologies in a meandering way. More to come.
 <!--
 **andrewbauxier/andrewbauxier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
