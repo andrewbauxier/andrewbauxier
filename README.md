@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 I'm Andrew, and I like to explore new technologies in a meandering way. More to come.
+<s
 
+<details>
+  <summary>Commit Prefixes</summary>
 # Commit Message Prefixes
 
 ## Table of Contents <!-- Prefixes may be added or removed as necessary-->
@@ -62,6 +65,8 @@ I'm Andrew, and I like to explore new technologies in a meandering way. More to 
 
 -   **Description**: Merging branches or resolving conflicts.
 -   **Example**: `MERGE: Merge 'feature/login' into 'main'`
+
+</details>
 
 <!--
 **andrewbauxier/andrewbauxier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
