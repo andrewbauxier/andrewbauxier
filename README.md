@@ -5,8 +5,6 @@ I'm Andrew, and I like to explore new technologies in a meandering way. More to 
 
 <details>
   <summary>Commit Prefixes</summary>
-# Commit Message Prefixes
-
 ## Table of Contents <!-- Prefixes may be added or removed as necessary-->
 
 1.  [CHORE](#1-chore)
