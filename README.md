@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
-I'm Andrew, and I like to explore new technologies in a meandering way. More to come.
-<s
+My name is Andrew, and I like to explore new technologies in a meandering way. I'm currently focused on developing my DevOps skills with Kubernetes, learning GameDev with C# and Unity, and diving into 3D animations and modeling with Blender. Much of my work can not be shown in public spaces, but you can still take a look around.
 
 <details>
   <summary>Commit Prefixes</summary>
