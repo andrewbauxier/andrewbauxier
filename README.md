@@ -5,7 +5,8 @@ I'm Andrew, and I like to explore new technologies in a meandering way. More to 
 
 <details>
   <summary>Commit Prefixes</summary>
-## Table of Contents <!-- Prefixes may be added or removed as necessary-->
+
+  Prefix Table of Contents <!-- Prefixes may be added or removed as necessary-->
 
 1.  [CHORE](#1-chore)
 2.  [FIX](#2-fix)
